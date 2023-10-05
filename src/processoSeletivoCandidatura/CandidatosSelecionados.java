@@ -1,4 +1,4 @@
-package candidatura;
+package processoSeletivoCandidatura;
 
 	public class CandidatosSelecionados {
 		public static void main(String[] args) {
